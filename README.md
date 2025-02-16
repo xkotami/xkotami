@@ -1,15 +1,14 @@
 [![MasterHead](./header.png)](https://github.com/xkotami)
 <!-- Profile Banner (Optional) -->
 
-# 👋 Hi, I'm Kotami!  
 ### Passionate developer | Fullstack enthusiast | PC fanatic
 
 🚀 **About Me:**  
 - 💻 I love coding, automation, and exploring new technologies.  
 - 🔧 Currently working on **[Syle](https://github.com/syle)**.  
-- 🌱 Learning **[Fullstack // Application Security]**.  
-- 📫 Reach me at **[naphat.pruekveeraparb@gmail.com]**.  
-- 🎮 Fun fact: I enjoy **[Kendo]**.  
+- 🌱 Learning **Fullstack // Application Security**.  
+- 📫 Reach me at **naphat.pruekveeraparb@gmail.com**.  
+- 🎮 Fun fact: I enjoy **Kendo**.  
 
 ---
 
@@ -33,17 +32,7 @@
 ---
 
 ## 🔥 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xkotami&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=xkotami&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkotami&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xkotami)](https://git.io/streak-stats)
 
 ---
 
