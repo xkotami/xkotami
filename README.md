@@ -36,7 +36,7 @@
 ---
 
 ## 📌 **Featured Projects**
-### 🚀 [Syle](https://github.com/syle)
+### 🚀 [Syle](https://github.com/xkotami/syle)
 - 🔹 **Tech:** JavaScript
 - 🌟 **Features:** WIP Discord bot for minecraft :)
 
