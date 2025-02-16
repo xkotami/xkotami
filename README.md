@@ -47,7 +47,7 @@
 
 ---
 
-### 🎉 **Thanks for Visiting!**
+### 🎉 **Thanks for visiting!**
 ⭐️ **Feel free to star some repos and connect!** 😊  
 
 
