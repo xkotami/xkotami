@@ -5,9 +5,8 @@
 
 🚀 **About Me:**  
 - 💻 I love coding, automation, and exploring new technologies.  
-- 🔧 Currently working on **[Syle](https://github.com/syle)**.  
+- 🔧 Currently studying Applied Computer Science at UCLL.  
 - 🌱 Learning **Fullstack // Application Security**.  
-- 📫 Reach me at **naphat.pruekveeraparb@gmail.com**.  
 - 🎮 Fun fact: I enjoy **Kendo**.  
 
 ---
@@ -38,11 +37,11 @@
 
 ## 📌 **Featured Projects**
 ### 🚀 [Syle](https://github.com/syle)
-- 🔹 **Tech:** [JS]
-- 🌟 **Features:** [WIP Discord bot for minecraft :)]
+- 🔹 **Tech:** JavaScript
+- 🌟 **Features:** WIP Discord bot for minecraft :)
 
 
-## 🌎 **Let's Connect!**
+## 🌎 **Let's connect :)**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/naphat-pruekveeraparb-b057b42b5)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kotami)
 
