@@ -1,13 +1,12 @@
 [![MasterHead](./header.png)](https://github.com/xkotami)
 <!-- Profile Banner (Optional) -->
 
-### Passionate developer | Fullstack enthusiast | PC fanatic
+### full-stack // application security // nerd
 
-🚀 **About Me:**  
-- 💻 I love coding, automation, and exploring new technologies.  
-- 🔧 Currently studying Applied Computer Science at UCLL.  
-- 🌱 Learning **Fullstack // Application Security**.  
-- 🎮 Fun fact: I enjoy **Kendo**.  
+**about me:**  
+- 💻 i love coding, automation, and exploring new technologies.  
+- 🔧 currently studying Applied Computer Science at UCLL.  
+- 🌱 learning **cloud engineering // Application Security**.  
 
 ---
 
@@ -22,7 +21,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### **Tools & Platforms**
+### **platforms**
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -36,19 +35,19 @@
 ---
 
 ## 📌 **Featured Projects**
-### 🚀 [Syle](https://github.com/xkotami/syle)
-- 🔹 **Tech:** JavaScript
-- 🌟 **Features:** WIP Discord bot for minecraft :)
+###  [Syle](https://github.com/xkotami/syle)
+- 🔹 **tech:** JavaScript
+- 🌟 **features:** WIP Discord bot for minecraft :)
 
 
-## 🌎 **Let's connect :)**
+## 🌎 **let's connect :)**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/naphat-pruekveeraparb-b057b42b5)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kotami)
 
 ---
 
-### 🎉 **Thanks for visiting!**
-⭐️ **Feel free to star some repos and connect!** 😊  
+### 🎉 **thanks for having a look!**
+⭐️ **feel free to star some repos and connect!** 
 
 
 
