@@ -29,7 +29,7 @@
 
 ---
 
-##  **gitHub stats**
+##  **github stats**
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xkotami)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
@@ -37,7 +37,7 @@
 ## 📌 **featured frojects**
 ###  [Syle](https://github.com/xkotami/syle)
 - 🔹 **tech:** JavaScript
-- 🌟 **features:** WIP Discord bot for minecraft :)
+- 🌟 **features:** WIP discord bot for minecraft :)
 
 
 ## 🌎 **let's connect :)**
