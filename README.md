@@ -1,12 +1,13 @@
 [![MasterHead](./header.png)](https://github.com/xkotami)
 <!-- Profile Banner (Optional) -->
 
-### full-stack // application security // nerd
+### web application // soc analyst // malware analysis
 
 **about me:**  
-- 💻 i love coding, automation, and exploring new technologies.  
-- 🔧 currently studying Applied Computer Science at UCLL.  
-- 🌱 learning **cloud engineering // Application Security**.  
+Hi! I'm an undergrad student studying at UCLL in Belgium, and I'm currently completing a semester abroad 
+at Cardiff Metropolitan University. I'm continuing my love for cybersecurity here, after which I will I
+would love to launch my passion into the industry :)
+
 
 ---
 
@@ -22,7 +23,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### **platforms**
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
@@ -46,8 +46,7 @@
 
 ---
 
-### 🎉 **thanks for having a look!**
-⭐️ **feel free to star some repos and connect!** 
+###  **thanks for having a look!**
 
 
 
